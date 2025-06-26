@@ -41,7 +41,7 @@ Emulator:
       aScreenCap_nc,
       DroidCast,
       DroidCast_raw,
-      "scrcpy",
+      scrcpy,
       nemu_ipc,
       ldopengl,
     ]
@@ -52,7 +52,7 @@ Emulator:
       uiautomator2,
       minitouch,
       Hermit,
-      "scrcpy",
+      scrcpy,
       MaaTouch,
     ]
   ScreenshotDedithering: false
