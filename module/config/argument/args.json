@@ -133,6 +133,7 @@
           "uiautomator2",
           "minitouch",
           "Hermit",
+          "scrcpy",
           "MaaTouch"
         ]
       },

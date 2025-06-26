@@ -52,6 +52,7 @@ Emulator:
       uiautomator2,
       minitouch,
       Hermit,
+      "scrcpy",
       MaaTouch,
     ]
   ScreenshotDedithering: false
